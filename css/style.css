@@ -1203,3 +1203,21 @@ rgba(0, 21, 63, 0.60)
     word-break: break-word;
     max-width: 100%;
 }
+
+.developer-credit {
+  display: block;
+  margin-top: 10px;
+  font-size: 13px;
+  color: #b8c2d6;
+}
+
+.developer-credit a {
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.developer-credit a:hover {
+  color: #e32636;
+}
